@@ -9,4 +9,4 @@ Construída usando :
 
 Pode ser acessada para melhor visualização no link abaixo:
 
-[Calculadora](https://taveiracoder.github.io/calculadora-html-css-js/)
+[Calculadora](target="_blank"https://taveiracoder.github.io/calculadora-html-css-js/)
